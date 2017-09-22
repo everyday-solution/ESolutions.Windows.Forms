@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<helpTopics>
+	<helpTopic name="one">
+		<title>How to add descriptors.</title>
+		<description>Shows how to add descriptions.</description>
+		<helpItems>
+			<helpItem>
+				<controlName>treeView1</controlName>
+				<number>1</number>
+				<helpText>This is treeView1</helpText>
+			</helpItem>
+			<helpItem>
+				<controlName>pictureBox1</controlName>
+				<number>2</number>
+				<helpText>This is pictureBox1</helpText>
+			</helpItem>
+			<helpItem>
+				<controlName>pictureBox2</controlName>
+				<number>3</number>
+				<helpText>This is pictureBox2</helpText>
+			</helpItem>
+			<helpItem>
+				<controlName>pictureBox3</controlName>
+				<number>4</number>
+				<helpText>This is pictureBox3</helpText>
+			</helpItem>
+		</helpItems>
+	</helpTopic>
+</helpTopics>
